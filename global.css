@@ -1,0 +1,58 @@
+html, body {
+    height: 100%;
+    background-color: #fff;
+    margin: 0;
+}
+
+.conteneur-principal {
+    height: 100%;
+    background-color: greenyellow;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0;
+}
+
+.conteneur {
+    background-color: black;
+    color: white;
+}
+
+.bloc {
+    margin: 5px;
+}
+
+.sous-bloc {
+    margin: 5px;
+    height: 300px;
+    display: inline-block;
+}
+
+.bloc-bordeaux {
+    background-color: violet;
+}
+
+.sous-bloc-jaune {
+    background-color: yellow;
+    width: 30%;
+}
+
+.sous-bloc-bleu {
+    background-color: blue;
+    width: 60%;
+}
+
+.bloc-vert {
+    background-color: green;
+}
+
+.sous-bloc-rouge {
+    background-color: red;
+    width: 50%;
+}
+
+.sous-bloc-noir {
+    background-color: black;
+    width: 40%;
+}
